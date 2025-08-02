@@ -1,0 +1,286 @@
+
+[20-Jul-2021 20:15:00 Africa/Lagos] PHP Fatal error:  Class 'PDO' not found in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 20
+[20-Jul-2021 20:15:13 Africa/Lagos] PHP Fatal error:  Class 'PDO' not found in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 20
+[20-Jul-2021 20:16:02 Africa/Lagos] PHP Fatal error:  Class 'PDO' not found in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 20
+[20-Jul-2021 20:16:20 Africa/Lagos] PHP Fatal error:  Class 'PDO' not found in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 20
+[20-Jul-2021 20:21:46 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:21:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:22:38 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:22:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:23:56 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:23:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:24:50 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:24:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:27:05 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:27:05 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:27:05 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:27:05 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:32:41 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 15
+[20-Jul-2021 20:32:41 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:32:41 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:32:41 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:32:52 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 15
+[20-Jul-2021 20:32:52 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:32:53 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:32:53 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:32:53 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:32:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:38:52 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 15
+[20-Jul-2021 20:38:52 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:38:52 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:38:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 15
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:39:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:43:04 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:43:04 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:43:04 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:43:11 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:43:11 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:43:11 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:43:11 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:43:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:27 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:45:27 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:45:27 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:45:27 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:37 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:45:37 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:45:37 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:45:37 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:45 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:45:45 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:45:45 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:45:45 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:45:45 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:50:35 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:50:35 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:50:35 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:50:35 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:50:35 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:50:46 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:50:46 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:50:46 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:50:46 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:50:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:51:47 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:51:47 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:51:47 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:51:47 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:51:47 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:52:13 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:52:13 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:52:13 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:52:13 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:52:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:52:45 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 20:52:45 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 20:52:45 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 20:52:45 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 20:52:45 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:02:43 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:02:43 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:02:43 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:02:43 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:02:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:02:50 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:02:50 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:02:50 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:02:50 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:02:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:09 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:04:09 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:04:09 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:04:09 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:17 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:04:17 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:04:17 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:04:17 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:27 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:04:27 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:04:27 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:04:27 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:04:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:06:21 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:06:21 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:06:21 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:06:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:08:14 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:08:14 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:08:14 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:08:14 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:08:14 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:14:33 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:14:33 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:14:33 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:14:33 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:14:33 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:14:37 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:14:37 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:14:37 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:14:37 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:14:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:07 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:32:07 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:32:07 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:32:07 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:07 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:46 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:32:46 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:54 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[20-Jul-2021 21:32:54 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[20-Jul-2021 21:32:54 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[20-Jul-2021 21:32:54 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[20-Jul-2021 21:32:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:01:26 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[21-Jul-2021 19:01:29 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:01:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:01:29 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[21-Jul-2021 19:01:29 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:01:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:38:18 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[21-Jul-2021 19:38:18 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:38:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:38:46 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[21-Jul-2021 19:38:46 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[21-Jul-2021 19:38:46 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[21-Jul-2021 19:38:46 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:38:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:39:12 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[21-Jul-2021 19:39:12 Africa/Lagos] PHP Notice:  Undefined index: id_usr1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 8
+[21-Jul-2021 19:39:12 Africa/Lagos] PHP Notice:  Undefined index: id_pwd1 in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 9
+[21-Jul-2021 19:39:12 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Jul-2021 19:39:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[22-Jul-2021 03:57:12 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[22-Jul-2021 03:57:16 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[22-Jul-2021 03:57:16 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[22-Jul-2021 03:57:26 Africa/Lagos] PHP Notice:  Undefined variable: Nou in /home/roothubc/public_html/nounerp/inc/pdo_connectdb.php on line 16
+[22-Jul-2021 03:57:26 Africa/Lagos] PHP Notice:  Undefined variable: conn in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[22-Jul-2021 03:57:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_check_login.php on line 28
+[21-Dec-2021 11:10:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'roothubc_dbnou_xam.result_group_summary' doesn't exist in /home/roothubc/public_html/nounerp/ajax/ajax_generateComprehensive.php:45
+Stack trace:
+#0 /home/roothubc/public_html/nounerp/ajax/ajax_generateComprehensive.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/roothubc/public_html/nounerp/ajax/ajax_generateComprehensive.php on line 45

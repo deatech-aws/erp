@@ -1,0 +1,21 @@
+[07-Feb-2023 13:25:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting '{' in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 61
+[20-Mar-2023 04:57:48 UTC] PHP Fatal error:  Uncaught Exception: Content type must be: application/json in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 12
+[07-Jul-2023 13:24:27 UTC] PHP Fatal error:  Uncaught Exception: Content type must be: application/json in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 12
+[17-Feb-2025 23:11:55 UTC] PHP Fatal error:  Uncaught Exception: Content type must be: application/json in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 12
+[17-Feb-2025 23:11:55 UTC] PHP Fatal error:  Uncaught Exception: Content type must be: application/json in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 12
+[17-Feb-2025 23:12:10 UTC] PHP Fatal error:  Uncaught Exception: Content type must be: application/json in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/directorateofexaminationsa15.sg-host.com/public_html/api/index.php on line 12
