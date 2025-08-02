@@ -2,3 +2,7 @@ ajax/php_errorlog
 api-service/students/php_errorlog
 api-service/students/php_errorlog
 ajax/php_errorlog
+pdo_connectdb.php
+pdo_rec_connectdb.php
+inc/pdo_connectdb.php
+inc/pdo_rec_connectdb.php
